@@ -1,6 +1,13 @@
-# Hello Framework
+# One Base at the time
 
-This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
+This interactive animation illustrates the total number of bases sequenced by the Broad Genomics Platform across the years. Each bar is a different run type and the colors represent the different instrument models. Number of bases for each run type is expressed in Terabases!
+
+I wanted to learn a bit how to used D3.js for interactive plot and took this as an opportunity.
+
+This is an [Observable Framework](https://observablehq.com/framework/) app.
+
+
+To install the required dependencies, run:
 
 ```
 npm install
